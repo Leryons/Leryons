@@ -1,15 +1,22 @@
 ## Hi there, I'm Leonardo. 👋
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB1ZmNoam1sYXhxdjJsM3UwbTV6aWNnN3Y5bHd1MzR3OXNibWtpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gi" width="50px">&nbsp;***About me***
+## ***About me*** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtlczZiMnQ3ZmtqZ2J1ZmIzcjRkcWkxaWwyeHF2enE3NnBnN2VzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TCoKXVW6cldmw/giphy.gif" width="50px">&nbsp;
 
-* **I'm interested in App dev and Game dev**
-* I don't have any experience working, that's why I'm looking for...
+
+<img align="right" width=230px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThza3RsNXo0Z3FjZ2tqOTQ3bGlxcmc0OW1weDBzZ2trMTVveW9mcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" />
+
+* 🔎 I'm interested in App dev and Game dev.
+
+* 💼 I don't have any experience working, that's why I'm looking for...
   
-- 🌱 I’m currently learning ...
+* 🖥️ I’m currently learning...
   - HTML/CSS
   - Blazor
+  - Improving MAUI & Godot
     
-- 📫 Reach out to me at: <a href="pulgarleonardo22@gmail.com">pulgarleonardo22@gmail.com</a>
+* 📫 Reach out to me at: <a href="pulgarleonardo22@gmail.com">pulgarleonardo22@gmail.com.</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="center">
