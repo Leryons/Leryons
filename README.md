@@ -12,7 +12,7 @@
 * 🖥️ I’m currently learning...
   - HTML/CSS
   - Blazor
-  - Improving MAUI & Godot
+  - Improving MAUI & Godot and UE5 for personal projects
     
 * 📫 Reach out to me at: <a href="pulgarleonardo22@gmail.com">pulgarleonardo22@gmail.com.</a>
 
